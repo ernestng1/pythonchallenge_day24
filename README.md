@@ -12,7 +12,7 @@
 <h2>Snake Game with High Score</h2>
 
 <div width = 150px>
-  <img src="snake_high_score"/>
+  <img src="snake_high_score.gif"/>
 </div>
 
 <h2>Why am I doing this?</h2>
