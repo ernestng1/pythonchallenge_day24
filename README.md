@@ -9,10 +9,10 @@
 > [!TIP]
 > Through the Mail Merge project, I learned how to automate many processes that used to require alot of manual work (i.e., inputting of names one by one). While I understand that there are existing softwares available that allows one to create and send personalised emails to the masses, it is fun to be able to develop it from scratch and I believe the ability to code it out provides a form of autonomy (i.e., being able to code for specific situations). I can already see  potential use cases such as generating standardised appeals letters based on information provided. 
 
-<h2></h2>
+<h2>Snake Game with High Score</h2>
 
 <div width = 150px>
-  <img src="turtle_crossing_compressed.gif"/>
+  <img src="snake_high_score"/>
 </div>
 
 <h2>Why am I doing this?</h2>
